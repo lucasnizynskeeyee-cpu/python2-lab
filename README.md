@@ -1,4 +1,4 @@
-﻿# Moje laboratorium Python II
+﻿Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned# Moje laboratorium Python II
 # Lukasz Nizynski
 ## O mnie
 Studiuję Analitykę danych w biznesie na Politechnice Opolskiej,
