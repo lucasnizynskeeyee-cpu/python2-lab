@@ -4,7 +4,7 @@
 Studiuję Analitykę danych w biznesie na Politechnice Opolskiej,
 semestr 2.
 ## Zainteresowania
-- [Meta ads
+- [Meta_ads]
 - [Koszykowka]
 - [Memecoins]
 ## Umiejętności techniczne
