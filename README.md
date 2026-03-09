@@ -22,4 +22,4 @@ semestr 2.
 - Email: lucasnizynskeeyee@gmail.com
 
 
-cwiczenie 
+cwiczenie
